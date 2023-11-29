@@ -2,7 +2,7 @@
 
 <img src="https://github.com/kkamara/useful/blob/main/php-reactjs-boilerplate2.png?raw=true" alt="php-reactjs-boilerplate2.png" width=""/>
 
-# PHP Autoloading
+# PHP Autoloading [![Tests Pipeline](https://github.com/kkamara/php-autoloading/actions/workflows/build.yml/badge.svg)](https://github.com/kkamara/php-autoloading/actions/workflows/build.yml)
 
 
 
